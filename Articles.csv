@@ -1,11 +1,11 @@
 title,level,status,starting page,quantity,total pages
-Earth,1,downloaded,0,0,80
-Human,1,downloaded,8,0,
-Language,1,downloaded,16,0,
-Technology,1,downloaded,24,0,
-Life,1,downloaded,32,0,
-Science,1,downloaded,40,0,
-The arts,1,downloaded,48,0,
-Human history,1,downloaded,56,0,
-Mathematics,1,downloaded,64,0,
-Philosophy,1,downloaded,72,0,
+Earth,1,downloaded,0,9,80
+Human,1,downloaded,8,0,80
+Language,1,downloaded,16,9,80
+Technology,1,downloaded,24,5,80
+Life,1,downloaded,32,1,80
+Science,1,downloaded,40,1,80
+The arts,1,downloaded,48,2,80
+Human history,1,downloaded,56,7,80
+Mathematics,1,downloaded,64,0,80
+Philosophy,1,downloaded,72,5,80
